@@ -1,4 +1,4 @@
-cd "U:\Documents\workshops fall 2022"
+
 
 *command window is where I submit my Stata commands. Stata commands are submitted 1 at a time. Even if running in batch mode 1 after the other. 
 *Dive right in. Will talk about what we are looking at as things come up. 
