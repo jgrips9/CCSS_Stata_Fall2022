@@ -57,3 +57,10 @@ browse
 webuse reshape6, clear
 reshape wide inc ue, i(id) j(year)
 reshape long inc ue, i(id) j(year)
+
+*load life expectancy dataset
+sysuse lifeexp
+*replace all missing values for safewater to be 0
+*drop all observations that have safewater as value 0
+*get average and standard deviation for population growth and life expectancy split by region
+*save 
