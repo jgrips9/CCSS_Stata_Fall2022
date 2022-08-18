@@ -54,3 +54,9 @@ ssc install asdoc
 asdoc corr mpg weight length, append
 asdoc regress mpg weight length, append
 
+*exercise
+*bring it all together
+*load life expectancy dataset
+sysuse lifeexp
+*keep north american and south american regions
+*Predict population growth by life expectancy, GNP per capita. Is this an accurate model?
