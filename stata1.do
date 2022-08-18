@@ -46,3 +46,10 @@ tabstat price mpg, by(foreign) s(mean med sd)
 
 log close
 
+*exercise below
+*load life expectancy data
+sysuse lifeexp
+*view dataset
+*How many regions are there? Which is the most frequint
+*Average GNP per capita
+*Show average and standard deviation for population growth, life expectancy split by region. 
