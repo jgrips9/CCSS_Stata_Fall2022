@@ -14,6 +14,7 @@
 sysuse auto, clear
 
 *check for missing values. in all variables
+ssc install mdesc
 mdesc
 
 *There are missing values in rep78 variable. 
