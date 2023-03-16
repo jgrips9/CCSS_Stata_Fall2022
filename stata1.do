@@ -44,7 +44,7 @@ help tabstat
 *do so with 
 tabstat price mpg, by(foreign) s(mean med sd)
 
-log close
+*log close
 
 *exercise below
 *load life expectancy data
